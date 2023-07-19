@@ -1,1 +1,1 @@
-# odin-recipes
+# A html practice project due to Odin Project curriculum
